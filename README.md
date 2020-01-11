@@ -1,0 +1,2 @@
+# php
+meu primeiro scritp
